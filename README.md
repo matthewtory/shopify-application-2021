@@ -1,3 +1,7 @@
+<p align="center">
+    <img height='196' src="design/export/Logo256.png">
+</p>
+
 # Shopify Challenge
 
 Hello! Thank you for taking the time to look at my challenge submission.
@@ -13,6 +17,7 @@ I have created a photograph marketplace called **Picca**!
 2. Create a listing - You can sell your own photographs too! Navigate to the 'Sell' page, and press 'Create Listing'. Fill out the information of your photo
    * People love art because it is scarce! Usually there only exists one painting, or several prints that are part of a run
    * Picca attempts to emulate this by allowing sellers to only offer a certain number of photos for sale as part of a virtual *run*
+   * Notice the fancy watermark to protect your property!
 3. View purchases - To view your purchases, click the profile icon in the top right corner
 
 ## Stack
