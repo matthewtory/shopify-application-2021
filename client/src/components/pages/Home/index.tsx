@@ -21,7 +21,7 @@ const Home: React.ComponentType = () => {
 
     return <Container className={'mt-2'}>
         <h1 className={'mb-2'}>Welcome to Picca</h1>
-        <h5 className={'text-muted mb-4'}>Connecting photographers, with photograph lovers</h5>
+        <h5 className={'text-muted mb-4'}>Connecting photographers with photograph lovers</h5>
         <h6>Featured</h6>
         <ListingsGrid listings={featured} />
         <div className={'d-flex align-items-center flex-wrap mt-3'}>
