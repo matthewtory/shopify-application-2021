@@ -1,5 +1,6 @@
 <p align="center">
     <img height='196' src="design/export/Logo256.png">
+    <h3>Picca</h3>
 </p>
 
 # Shopify Challenge
